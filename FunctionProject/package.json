@@ -7,7 +7,7 @@
     "test": "echo \"No tests yet...\""
   },
   "dependencies": {
-    "big-integer": "^1.6.48"
-  },
-  "devDependencies": {}
+    "big-integer": "^1.6.48",
+    "newman": "^6.2.3"
+  }
 }

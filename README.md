@@ -133,5 +133,13 @@ Depende del plan:
 
 En todos los planes se cobra aparte el Storage Account, Application Insights y la transferencia de datos de salida.
 
-**Informe**
- .....
+## Informe - Videos de Azure y prueba
+
+ **Nota**: el informe fue realizado en formato de video:
+
+ - Primer video en OneDrive mostrando resultados antes de memoization, disponible [aquí](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/angela_gomez-v_mail_escuelaing_edu_co/IQCKbSSuk9IUQYt1Xf2NJMsYAY25VrqsrKnthmBw2OO53Os?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=9zuL7q). 
+
+ - Segundo video en OneDrive después de aplicarle memoization, disponible [aquí](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/angela_gomez-v_mail_escuelaing_edu_co/IQA0A4o7fWTaRZSPP_DqxRrVAbTAk7aPOmB8HGq2tubj9vs?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=RPlsUT).
+
+
+---
